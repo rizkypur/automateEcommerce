@@ -1,0 +1,21 @@
+{
+  "name": "evening-dresses",
+  "version": "1.0.0",
+  "description": "test evening-dresses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rizu",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^7.18.1"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.18.1",
+    "@wdio/mocha-framework": "^7.18.0",
+    "@wdio/spec-reporter": "^7.18.0",
+    "chromedriver": "^99.0.0",
+    "wdio-chromedriver-service": "^7.3.1"
+  }
+}
