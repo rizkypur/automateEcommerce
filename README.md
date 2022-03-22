@@ -1,7 +1,7 @@
 # automateEcommerce
 
 ### Tech Stack
-- js
+- JS
 - Selenium
 - Mocha
 - Webdriverio
